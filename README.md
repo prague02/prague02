@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Laura 👋</h1>
+<h1 align="center">Hey there, I'm Laura🌶 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Software+Developer+in+progress;Passionate+about+tech+and+innovation;Founder+of+MarBIAT+%F0%9F%92%BB" alt="Typing SVG" />
@@ -47,4 +47,4 @@
 
 ### 💡 Fun Fact
 
-I believe that technology and science can transform the world — and I'm here to be part of that change. Let's build the future, one line of code at a time 🚀💙
+I believe that technology and science can transform the world — and I'm here to be part of that change. Let's build the future, one line of code at a time 🚀💛
